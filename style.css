@@ -1,0 +1,9 @@
+#container {
+    height: 960px;
+    width: 960px;
+    border: 3px solid blue; 
+}
+#container > div {
+    border: 1px solid black;
+    }
+
